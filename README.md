@@ -21,7 +21,7 @@ My skills include:
 
 I'm meticulous, I enjoy solving problems and finding patterns, and I like working with others.
 I intend to use data-centric stories to help a purpose-driven company find solutions and insights.
-You can find my latest work on my GitHub pages site--TBA.
+You can find my latest work on my [portfolio site](https://nlogandata.wordpress.com/projects/), or by browsing my GitHub repos.
 I'm currently available for full-time work, and I'm open to remote, hybrid, or in-office work.
 My personal interests include spending time with my wife and our dog, playing tennis or pickleball, listening to all kinds of music, and playing board or card games.
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-logan-607b767b/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nlogan-data/).
